@@ -1,11 +1,14 @@
-# build artifacts (Visual Studio / MSVC)
+# Visual Studio / build trash
+.vs/
 *.exe
 *.obj
 *.ilk
 *.pdb
 *.idb
 *.log
+*.dll
+*.a
 
-# folders
+# VS Code / Python
 .vscode/
 .venv/
